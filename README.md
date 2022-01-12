@@ -1,8 +1,8 @@
 # Blender_Project
 ## Project #1 
 
-![Testing](BarnTowerPic.png)
+![Testing](/BarnTowerPic.png)
 
 ## Project #2 
 
-![Testing](Pyramid.png)
+![Testing](/Pyramid.png)
