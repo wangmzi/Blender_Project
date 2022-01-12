@@ -5,4 +5,4 @@
 
 ## Project #2 
 
-![Testing](/Pyramid/Pyramid.png)
+![Tsting](/Pyramid/Pyramid.png)
